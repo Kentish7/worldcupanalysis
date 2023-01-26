@@ -1,4 +1,4 @@
-<h1>Análise de Copas do Mundo</h1>
+<h1>Análises de Copas do Mundo</h1>
 
 Desenvolvido por um entusiasta em futebol, esse projeto foi criado com a proposta de realizar análises de todas as copas do mundo realizadas até o momento, de 1930 até 2022.
 
@@ -16,4 +16,4 @@ Eu pretendo adicionar análises em BI com o objetivo de uma melhor visualizaçã
 
 <h2>Como Instalar</h2>
 
-Para completa instalação do projeto clique [aqui] (worldcupanalysis/tree/main/install).
+Para completa instalação do projeto clique [aqui](https://github.com/Kentish7/worldcupanalysis/tree/main/install).
